@@ -55,12 +55,23 @@
         "deque": "cpp",
         "list": "cpp",
         "xhash": "cpp",
-        "xtree": "cpp"
+        "xtree": "cpp",
+        "chrono": "cpp",
+        "memory": "cpp",
+        "queue": "cpp",
+        "set": "cpp",
+        "iomanip": "cpp",
+        "mutex": "cpp",
+        "exceptions": "cpp",
+        "xmutex": "cpp",
+        "xthread": "cpp",
+        "xlocmon": "cpp",
+        "xloctime": "cpp"
     },
     // 要使用cmd终端，其他终端会有兼容问题
     //"terminal.integrated.shell.windows": "D:\\cmder\\cmder.exe",
     "files.encoding": "gbk",
     "code-runner.executorMap":{
         "cpp":"chcp 65001 "
-    },
+    }
 }
